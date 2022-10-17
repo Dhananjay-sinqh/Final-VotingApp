@@ -1,4 +1,4 @@
-# Instant Messenger
+# Online voting system
 <h2>Introduction</h2>
 <h2>Table of Contents</h2>
 
